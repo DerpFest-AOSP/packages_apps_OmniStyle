@@ -26,7 +26,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         android:allowBackup="false"
         android:label="OmniStyle"
         android:icon="@drawable/ic_launcher_settings"
-        android:theme="@style/Theme.OmniStyle" >
+        android:theme="@style/Theme.OmniStyle"
+        android:requestLegacyExternalStorage="true" >
         <activity
             android:name=".BrowseHeaderActivity"
             android:label="@string/browse_header"
