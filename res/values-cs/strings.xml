@@ -31,6 +31,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="scrolling_wall_dialog_title">Oříznout tapetu</string>
     <string name="scrolling_wall_yes">Ne</string>
     <string name="scrolling_wall_no">Ano</string>
+    <string name="cancel">Zrušit</string>
     <string name="wallpaper_location_local">Místní</string>
     <string name="wallpaper_location_remote">Vzdálený</string>
     <string name="download_wallpaper_notice">Stahování tapet</string>
@@ -57,4 +58,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="theme_compose">Vytvořit</string>
     <string name="button_apply">Použít</string>
     <string name="notification_overlay_info">Restartování je nutné po změně překrytí upozornění</string>
+    <string name="wavvy_header">Wavvy (čas)</string>
+    <string name="nature_header">Příroda (čas)</string>
+    <string name="nature_header_random">Příroda (náhodně)</string>
+    <string name="poly_header">Poly (čas)</string>
 </resources>

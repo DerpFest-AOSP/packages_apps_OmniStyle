@@ -31,6 +31,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="scrolling_wall_dialog_title">Hintergrundbild zuschneiden</string>
     <string name="scrolling_wall_yes">Nein</string>
     <string name="scrolling_wall_no">Ja</string>
+    <string name="cancel">Abbrechen</string>
     <string name="wallpaper_location_local">Lokal</string>
     <string name="wallpaper_location_remote">Remote</string>
     <string name="download_wallpaper_notice">Hintergrundbild herunterladen</string>
@@ -57,4 +58,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="theme_compose">Zusammenstellen</string>
     <string name="button_apply">Anwenden</string>
     <string name="notification_overlay_info">Neustart nach Änderung der\nBenachrichtigungsüberlagerung nötig</string>
+    <string name="wavvy_header">Welle (Zeit)</string>
+    <string name="nature_header">Natur (Zeit)</string>
+    <string name="nature_header_random">Natur (zufällig)</string>
+    <string name="poly_header">Poly (Zeit)</string>
 </resources>

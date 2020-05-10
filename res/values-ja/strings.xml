@@ -31,6 +31,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="scrolling_wall_dialog_title">壁紙のトリミング</string>
     <string name="scrolling_wall_yes">いいえ</string>
     <string name="scrolling_wall_no">はい</string>
+    <string name="cancel">キャンセル</string>
     <string name="wallpaper_location_local">ローカル</string>
     <string name="wallpaper_location_remote">リモート</string>
     <string name="download_wallpaper_notice">壁紙をダウンロード</string>
@@ -57,4 +58,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="theme_compose">作成</string>
     <string name="button_apply">適用</string>
     <string name="notification_overlay_info">通知オーバーレイを変更した後は\n再起動する必要があります</string>
+    <string name="wavvy_header">Wavvy (時間)</string>
+    <string name="nature_header">Nature (時間)</string>
+    <string name="nature_header_random">Nature (ランダム)</string>
+    <string name="poly_header">Poly (時間)</string>
 </resources>

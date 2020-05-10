@@ -31,6 +31,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="scrolling_wall_dialog_title">Кадрировать обои</string>
     <string name="scrolling_wall_yes">Нет</string>
     <string name="scrolling_wall_no">Да</string>
+    <string name="cancel">Отмена</string>
     <string name="wallpaper_location_local">Локальные</string>
     <string name="wallpaper_location_remote">Удалённый</string>
     <string name="download_wallpaper_notice">Загрузка обоев</string>

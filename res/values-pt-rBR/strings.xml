@@ -31,7 +31,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="scrolling_wall_dialog_title">Cortar papel de parede</string>
     <string name="scrolling_wall_yes">Não</string>
     <string name="scrolling_wall_no">Sim</string>
+    <string name="cancel">Cancelar</string>
     <string name="wallpaper_location_local">Local</string>
+    <string name="wallpaper_location_remote">Remoto</string>
     <string name="download_wallpaper_notice">Fazendo download do papel de parede</string>
     <string name="download_wallpaper_failed_notice">Falha no download do papel de parede</string>
     <string name="no_network_message">Sem conectividade à Rede</string>
@@ -39,6 +41,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="wallpaper_default_name">Papel de parede</string>
     <string name="browse_theme_walls">Imagens de fundo do tema</string>
     <string name="browse_theme_header">Cabeçalhos do tema</string>
+    <string name="pick_header">Selecionar cabeçalhos</string>
     <string name="pick_theme">Selecione um tema</string>
     <string name="theme_disable">Padrão</string>
     <string name="sort_by_creator_menu">Ordenar por criador</string>
@@ -47,6 +50,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="download_header_notice">A transferir cabeçalho</string>
     <string name="download_header_failed_notice">A transferência do cabeçalho falhou</string>
     <string name="header_location_local">Local</string>
+    <string name="header_location_online">Remoto</string>
     <string name="compose_theme">Compor tema</string>
     <string name="theme_accent">Realce</string>
     <string name="theme_primary">Principal</string>
@@ -54,4 +58,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="theme_compose">Compor</string>
     <string name="button_apply">Aplicar</string>
     <string name="notification_overlay_info">É necessário reiniciar depois de\nalterar o tema das notificações</string>
+    <string name="wavvy_header">Ondulado (tempo)</string>
+    <string name="nature_header">Natureza (tempo)</string>
+    <string name="nature_header_random">Natureza (aleatório)</string>
+    <string name="poly_header">Polígono (tempo)</string>
 </resources>
