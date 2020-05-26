@@ -22,7 +22,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     android:orientation="vertical"
     android:background="?android:attr/selectableItemBackground" >
 
-    <android.support.v7.widget.CardView
+    <androidx.cardview.widget.CardView
         android:id="@+id/header_image_card"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -57,5 +57,5 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
                 android:shadowRadius="8" />
 
             </RelativeLayout>
-    </android.support.v7.widget.CardView>
+    </androidx.cardview.widget.CardView>
 </LinearLayout>
