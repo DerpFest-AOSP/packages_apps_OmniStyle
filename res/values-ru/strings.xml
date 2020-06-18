@@ -58,4 +58,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="theme_compose">Предпросмотр</string>
     <string name="button_apply">Применить</string>
     <string name="notification_overlay_info">Требуется перезагрузка устройства после\nизменения наложения уведомлений</string>
+    <string name="wavvy_header">Волна (время)</string>
+    <string name="nature_header">Природа (время)</string>
+    <string name="nature_header_random">Природа (случайный)</string>
+    <string name="poly_header">Поли (время)</string>
 </resources>
