@@ -25,8 +25,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="wallpaper_type_system">Startbildschirm</string>
     <string name="wallpaper_type_lock">Sperrbildschirm</string>
     <string name="header_creator_label">Creator\u003a </string>
-    <string name="no_crop_activity_dialog_text">Omni-Galerie-App ist erforderlich, um das Hintergrundbild festzulegen</string>
+    <string name="no_crop_activity_dialog_text">Omni-Galerie-App ist erforderlich, um das Hintergrundbild festzulegen.</string>
     <string name="no_crop_activity_dialog_title">Galerie fehlt</string>
+    <string name="no_crop_activity_dialog_text_sub">Sie können jedes beliebige Bild lange drücken, um es herunterzuladen und dann andere Apps verwenden, um es als Hintergrund zu setzen.</string>
     <string name="scrolling_wall_dialog_text">Möchten Sie das Hintergrundbild auf die Display-Größe zuschneiden\u003f</string>
     <string name="scrolling_wall_dialog_title">Hintergrundbild zuschneiden</string>
     <string name="scrolling_wall_yes">Nein</string>
@@ -36,6 +37,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="wallpaper_location_remote">Remote</string>
     <string name="download_wallpaper_notice">Hintergrundbild herunterladen</string>
     <string name="download_wallpaper_failed_notice">Hintergrundbild herunterladen fehlgeschlagen</string>
+    <string name="download_wallpaper_view_notice">Keine Galerie-App gefunden</string>
     <string name="no_network_message">Keine Netzwerkverbindung</string>
     <string name="download_wallpaper_list_failed_notice">Hintergrundbild-Verzeichnis konnte nicht geladen werden</string>
     <string name="wallpaper_default_name">Hintergrundbild</string>

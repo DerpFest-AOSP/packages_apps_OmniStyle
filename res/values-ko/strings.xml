@@ -25,7 +25,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="wallpaper_type_system">홈 화면</string>
     <string name="wallpaper_type_lock">잠금 화면</string>
     <string name="header_creator_label">제작자\u003a </string>
-    <string name="no_crop_activity_dialog_text">배경화면을 설정하려면 Omni 갤러리 앱이 필요합니다.</string>
     <string name="no_crop_activity_dialog_title">갤러리 앱 없음</string>
     <string name="scrolling_wall_dialog_text">화면 사이즈에 맞게 배경화면을 잘라내시겠습니까\u003f</string>
     <string name="scrolling_wall_dialog_title">배경화면 잘라내기</string>

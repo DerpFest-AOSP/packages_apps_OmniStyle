@@ -25,7 +25,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="wallpaper_type_system">Pàgina d\'inici</string>
     <string name="wallpaper_type_lock">Pantalla de bloqueig</string>
     <string name="header_creator_label">Creador\u003a </string>
-    <string name="no_crop_activity_dialog_text">Es requereix l\'app Galeria Omni per establir el fons de pantalla</string>
     <string name="no_crop_activity_dialog_title">Falta la galeria</string>
     <string name="scrolling_wall_dialog_text">Voleu retallar el fons de pantalla a la mida de visualització\u003f</string>
     <string name="scrolling_wall_dialog_title">Retalla el fons de pantalla</string>

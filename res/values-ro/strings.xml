@@ -25,7 +25,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="wallpaper_type_system">Ecranul de pornire</string>
     <string name="wallpaper_type_lock">Ecranul de deblocare</string>
     <string name="header_creator_label">Creator\u003a </string>
-    <string name="no_crop_activity_dialog_text">Aplicația Galerie Omni este necesară pentru a seta imaginea de fundal</string>
     <string name="no_crop_activity_dialog_title">Galerie lipsă</string>
     <string name="scrolling_wall_dialog_text">Doriți să decupați imaginea de fundal la dimensiunea ecranului\u003f</string>
     <string name="scrolling_wall_dialog_title">Decupare imagine de fundal</string>

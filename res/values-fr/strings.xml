@@ -25,7 +25,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="wallpaper_type_system">Écran d\'accueil</string>
     <string name="wallpaper_type_lock">Écran de verrouillage</string>
     <string name="header_creator_label">Auteur \u003a </string>
-    <string name="no_crop_activity_dialog_text">L\'application Omni Gallery est nécessaire pour modifier le fond d\'écran</string>
     <string name="no_crop_activity_dialog_title">Galerie manquant</string>
     <string name="scrolling_wall_dialog_text">Voulez-vous rogner le fond d\'écran à la taille d\'affichage\u003f</string>
     <string name="scrolling_wall_dialog_title">Rogner le fond d\'écran</string>

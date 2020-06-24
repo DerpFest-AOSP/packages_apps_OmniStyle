@@ -25,7 +25,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="wallpaper_type_system">Pantalla De Inicio</string>
     <string name="wallpaper_type_lock">Pantalla de bloqueo</string>
     <string name="header_creator_label">Creador\u003a </string>
-    <string name="no_crop_activity_dialog_text">La aplicación Galería Omni es necesaria para establecer fondos</string>
     <string name="no_crop_activity_dialog_title">Falta la galeria</string>
     <string name="scrolling_wall_dialog_text">¿Quiere recortar el fondo de pantalla para el tamaño de la pantalla\u003f</string>
     <string name="scrolling_wall_dialog_title">Recortar fondo de pantalla</string>

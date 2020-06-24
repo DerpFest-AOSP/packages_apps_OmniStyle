@@ -25,7 +25,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="wallpaper_type_system">Beginscherm</string>
     <string name="wallpaper_type_lock">Vergrendelscherm</string>
     <string name="header_creator_label">Maker\u003a </string>
-    <string name="no_crop_activity_dialog_text">Omni Gallery app is vereist voor het instellen van achtergrond</string>
     <string name="no_crop_activity_dialog_title">Galerij ontbreekt</string>
     <string name="scrolling_wall_dialog_text">Wilt u de achtergrond bijsnijden tot scherm grootte\u003f</string>
     <string name="scrolling_wall_dialog_title">Achtergrond bijsnijden</string>

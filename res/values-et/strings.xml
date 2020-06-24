@@ -25,7 +25,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="wallpaper_type_system">Avaekraan</string>
     <string name="wallpaper_type_lock">Lukukuva</string>
     <string name="header_creator_label">Autor\u003a </string>
-    <string name="no_crop_activity_dialog_text">Rakendus Omni Gallery on vajalik taustapildi määramiseks</string>
     <string name="no_crop_activity_dialog_title">Galerii puudub</string>
     <string name="scrolling_wall_dialog_text">Kas soovid lõigata taustapildi ekraanisuuruseks\u003f</string>
     <string name="scrolling_wall_dialog_title">Lõika taustapilti</string>

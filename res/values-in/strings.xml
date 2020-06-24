@@ -25,7 +25,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="wallpaper_type_system">Layar utama</string>
     <string name="wallpaper_type_lock">Kunci layar</string>
     <string name="header_creator_label">Pencipta\u003a </string>
-    <string name="no_crop_activity_dialog_text">Aplikasi Omni Gallery diperlukan untuk mengatur wallpaper</string>
     <string name="no_crop_activity_dialog_title">Galeri hilang</string>
     <string name="scrolling_wall_dialog_text">Apakah Anda ingin memotong wallpaper ke ukuran layar\u003f</string>
     <string name="scrolling_wall_dialog_title">Potong wallpaper</string>

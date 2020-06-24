@@ -25,7 +25,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="wallpaper_type_system">Startside</string>
     <string name="wallpaper_type_lock">Låseskjerm</string>
     <string name="header_creator_label">Skaper\u003a </string>
-    <string name="no_crop_activity_dialog_text">Omni Galleri app er nødvendig å sette bakgrunnsbilde</string>
     <string name="no_crop_activity_dialog_title">Galleri mangler</string>
     <string name="scrolling_wall_dialog_text">Hvis du vil beskjære bakgrunnsbildet til skjermstørrelsen\u003f</string>
     <string name="scrolling_wall_dialog_title">Beskjær bakgrunnen</string>

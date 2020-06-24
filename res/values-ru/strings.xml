@@ -25,7 +25,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="wallpaper_type_system">Домашний экран</string>
     <string name="wallpaper_type_lock">Экран блокировки</string>
     <string name="header_creator_label">Автор\u003a</string>
-    <string name="no_crop_activity_dialog_text">Приложение Omni Галерея требуется для установки обоев</string>
     <string name="no_crop_activity_dialog_title">Галерея не найдена</string>
     <string name="scrolling_wall_dialog_text">Хотите ли вы обрезать обои до размеров экрана\u003f</string>
     <string name="scrolling_wall_dialog_title">Кадрировать обои</string>

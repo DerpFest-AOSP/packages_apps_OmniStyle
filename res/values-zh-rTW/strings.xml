@@ -25,7 +25,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="wallpaper_type_system">主螢幕</string>
     <string name="wallpaper_type_lock">鎖定畫面</string>
     <string name="header_creator_label">創造者\u003a </string>
-    <string name="no_crop_activity_dialog_text">需要 Omni 圖庫來設定桌布</string>
     <string name="no_crop_activity_dialog_title">無法找到圖庫</string>
     <string name="scrolling_wall_dialog_text">您想要將桌布裁切為顯示大小嗎\u003f</string>
     <string name="scrolling_wall_dialog_title">裁切桌布</string>

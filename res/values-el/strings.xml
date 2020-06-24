@@ -25,7 +25,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="wallpaper_type_system">Αρχική οθόνη</string>
     <string name="wallpaper_type_lock">Οθόνη κλειδώματος</string>
     <string name="header_creator_label">Δημιουργός\u003a </string>
-    <string name="no_crop_activity_dialog_text">Η εφαρμογή \"Συλλογη Omni\" χρειάζεται για ορισμό ταπετσαρίας</string>
     <string name="no_crop_activity_dialog_title">Δεν βρέθηκε εφαρμογή</string>
     <string name="scrolling_wall_dialog_text">Θέλετε να κάνετε περικοπή της ταπετσαρίας στο μέγεθος της οθόνης\u003b</string>
     <string name="scrolling_wall_dialog_title">Περικοπή ταπετσαρίας</string>

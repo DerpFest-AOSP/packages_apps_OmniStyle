@@ -25,7 +25,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="wallpaper_type_system">Ana ekran</string>
     <string name="wallpaper_type_lock">Kilit ekranı</string>
     <string name="header_creator_label">Yapan\u003a </string>
-    <string name="no_crop_activity_dialog_text">Omni Galeri uygulaması duvar kâğıdını ayarlamak için gereklidir</string>
     <string name="no_crop_activity_dialog_title">Galeri yok</string>
     <string name="scrolling_wall_dialog_text">Duvar kâğıdını ekran boyutuna göre kırpmak ister misiniz\u003f</string>
     <string name="scrolling_wall_dialog_title">Duvar kâğıdını kırp</string>

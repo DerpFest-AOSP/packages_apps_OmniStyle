@@ -25,7 +25,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="wallpaper_type_system">ホーム画面</string>
     <string name="wallpaper_type_lock">ロック画面</string>
     <string name="header_creator_label">クリエイター\u003a</string>
-    <string name="no_crop_activity_dialog_text">Omni Galleryアプリは壁紙を設定する必要があります</string>
     <string name="no_crop_activity_dialog_title">ギャラリーがありません</string>
     <string name="scrolling_wall_dialog_text">画面サイズに壁紙を切り抜きますか\u003f</string>
     <string name="scrolling_wall_dialog_title">壁紙のトリミング</string>

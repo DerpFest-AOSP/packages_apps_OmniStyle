@@ -25,7 +25,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="wallpaper_type_system">Əsas ekran</string>
     <string name="wallpaper_type_lock">Kilid ekranı</string>
     <string name="header_creator_label">Yaradıcı\u003a </string>
-    <string name="no_crop_activity_dialog_text">Divar kağızı təyin etmək üçün Omni Qaleriya tətbiqi lazımdır</string>
     <string name="no_crop_activity_dialog_title">Qaleriya yoxdur</string>
     <string name="scrolling_wall_dialog_text">Divar kağızını ekranın ölçüsünə görə kəsmək istəyirsinizmi?\u003f</string>
     <string name="scrolling_wall_dialog_title">Divar kağızını qırp</string>
