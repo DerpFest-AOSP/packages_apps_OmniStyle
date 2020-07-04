@@ -354,7 +354,7 @@
         </activity>
         <activity
             android:name=".derp_q"
-            android:label="DerpFest - Q series" >
+            android:label="DerpFest - OnePlus" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 
