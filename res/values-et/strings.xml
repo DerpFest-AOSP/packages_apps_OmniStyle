@@ -25,19 +25,24 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="wallpaper_type_system">Avaekraan</string>
     <string name="wallpaper_type_lock">Lukukuva</string>
     <string name="header_creator_label">Autor\u003a </string>
+    <string name="no_crop_activity_dialog_text">Taustapildi määramiseks on vajalik OmniGallery rakendus.</string>
     <string name="no_crop_activity_dialog_title">Galerii puudub</string>
     <string name="scrolling_wall_dialog_text">Kas soovid lõigata taustapildi ekraanisuuruseks\u003f</string>
     <string name="scrolling_wall_dialog_title">Lõika taustapilti</string>
     <string name="scrolling_wall_yes">Ei</string>
     <string name="scrolling_wall_no">Jah</string>
+    <string name="cancel">Tühista</string>
     <string name="wallpaper_location_local">Kohalik</string>
+    <string name="wallpaper_location_remote">Väline</string>
     <string name="download_wallpaper_notice">Laadin taustapilti alla</string>
     <string name="download_wallpaper_failed_notice">Taustapildi allalaadimine ebaõnnestus</string>
+    <string name="download_wallpaper_view_notice">Galeriirakendust ei leitud</string>
     <string name="no_network_message">Võrguühendus puudub</string>
     <string name="download_wallpaper_list_failed_notice">Taustapildi kausta laadimine ebaõnnestus</string>
     <string name="wallpaper_default_name">Taustapilt</string>
     <string name="browse_theme_walls">Teema taustapildid</string>
     <string name="browse_theme_header">Teema päised</string>
+    <string name="pick_header">Vali päis</string>
     <string name="pick_theme">Vali teema</string>
     <string name="theme_disable">Vaikimisi</string>
     <string name="sort_by_creator_menu">Sorteeri autori järgi</string>
@@ -46,6 +51,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="download_header_notice">Laadin päist alla</string>
     <string name="download_header_failed_notice">Päise allalaadimine ebaõnnestus</string>
     <string name="header_location_local">Kohalik</string>
+    <string name="header_location_online">Väline</string>
     <string name="compose_theme">Koosta teema</string>
     <string name="theme_accent">Sekundaarne</string>
     <string name="theme_primary">Primaarne</string>
@@ -53,4 +59,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="theme_compose">Koosta</string>
     <string name="button_apply">Rakenda</string>
     <string name="notification_overlay_info">Taaskäivitamine on vajalik\npeale teate ülekatte muutmist</string>
+    <string name="wavvy_header">Lainetav (aeg)</string>
+    <string name="nature_header">Loodus (aeg)</string>
+    <string name="nature_header_random">Loodus (juhuslik)</string>
+    <string name="poly_header">Polü (aeg)</string>
 </resources>

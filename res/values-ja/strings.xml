@@ -25,7 +25,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="wallpaper_type_system">ホーム画面</string>
     <string name="wallpaper_type_lock">ロック画面</string>
     <string name="header_creator_label">クリエイター\u003a</string>
+    <string name="no_crop_activity_dialog_text">Omni Gallery アプリは壁紙を設定する必要があります</string>
     <string name="no_crop_activity_dialog_title">ギャラリーがありません</string>
+    <string name="no_crop_activity_dialog_text_sub">任意のリモート画像を長押ししてダウンロードし、他のアプリを使用して壁紙として設定できます。</string>
     <string name="scrolling_wall_dialog_text">画面サイズに壁紙を切り抜きますか\u003f</string>
     <string name="scrolling_wall_dialog_title">壁紙のトリミング</string>
     <string name="scrolling_wall_yes">いいえ</string>
@@ -35,6 +37,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="wallpaper_location_remote">リモート</string>
     <string name="download_wallpaper_notice">壁紙をダウンロード</string>
     <string name="download_wallpaper_failed_notice">壁紙のダウンロードに失敗しました</string>
+    <string name="download_wallpaper_view_notice">ギャラリーアプリが見つかりませんでした</string>
     <string name="no_network_message">ネットワーク接続がありません</string>
     <string name="download_wallpaper_list_failed_notice">壁紙の読み込みに失敗しました</string>
     <string name="wallpaper_default_name">壁紙</string>
