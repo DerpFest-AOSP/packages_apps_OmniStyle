@@ -25,19 +25,25 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="wallpaper_type_system">Écran d\'accueil</string>
     <string name="wallpaper_type_lock">Écran de verrouillage</string>
     <string name="header_creator_label">Auteur \u003a </string>
+    <string name="no_crop_activity_dialog_text">L\'application Omni Gallery est nécessaire pour définir le fond d\'écran.</string>
     <string name="no_crop_activity_dialog_title">Galerie manquant</string>
+    <string name="no_crop_activity_dialog_text_sub">Vous pouvez appuyer longuement sur n\'importe quelle image à distance pour la télécharger, puis utiliser d\'autres applications pour la définir comme fond d\'écran.</string>
     <string name="scrolling_wall_dialog_text">Voulez-vous rogner le fond d\'écran à la taille d\'affichage\u003f</string>
     <string name="scrolling_wall_dialog_title">Rogner le fond d\'écran</string>
     <string name="scrolling_wall_yes">Non</string>
     <string name="scrolling_wall_no">Oui</string>
+    <string name="cancel">Annuler</string>
     <string name="wallpaper_location_local">Local</string>
+    <string name="wallpaper_location_remote">Distant</string>
     <string name="download_wallpaper_notice">Téléchargement de fonds d\'écran</string>
     <string name="download_wallpaper_failed_notice">Échec du téléchargement du fond d\'écran</string>
+    <string name="download_wallpaper_view_notice">Aucune appli galerie trouvée</string>
     <string name="no_network_message">Aucune connexion réseau</string>
     <string name="download_wallpaper_list_failed_notice">Échec du chargement du répertoire des fonds d\'écran</string>
     <string name="wallpaper_default_name">Fond d\'écran</string>
     <string name="browse_theme_walls">Thèmes de fond d\'écran</string>
     <string name="browse_theme_header">Thème des en-têtes</string>
+    <string name="pick_header">Choisir l\'en-tête</string>
     <string name="pick_theme">Sélectionner un thème</string>
     <string name="theme_disable">Par défaut</string>
     <string name="sort_by_creator_menu">Trier par créateur</string>
@@ -46,6 +52,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="download_header_notice">Téléchargement de l\'entête</string>
     <string name="download_header_failed_notice">Échec du téléchargement de l\'entête</string>
     <string name="header_location_local">Local</string>
+    <string name="header_location_online">Distant</string>
     <string name="compose_theme">Composer un thème</string>
     <string name="theme_accent">Accent</string>
     <string name="theme_primary">Primaire</string>
@@ -53,4 +60,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="theme_compose">Composer</string>
     <string name="button_apply">Appliquer</string>
     <string name="notification_overlay_info">Un redémarrage est requis après\nle changement de la surcouche de notification</string>
+    <string name="wavvy_header">Wavvy (temps)</string>
+    <string name="nature_header">Nature (temps)</string>
+    <string name="nature_header_random">Nature (aléatoire)</string>
+    <string name="poly_header">Poly (temps)</string>
 </resources>
