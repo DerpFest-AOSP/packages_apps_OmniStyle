@@ -25,19 +25,25 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="wallpaper_type_system">ホーム画面</string>
     <string name="wallpaper_type_lock">ロック画面</string>
     <string name="header_creator_label">クリエイター\u003a</string>
+    <string name="no_crop_activity_dialog_text">L\'app Omni Gallery è necessaria per impostare lo sfondo.</string>
     <string name="no_crop_activity_dialog_title">ギャラリーがありません</string>
+    <string name="no_crop_activity_dialog_text_sub">È possibile premere a lungo qualsiasi immagine remota per scaricarla e quindi utilizzare altre applicazioni per impostarla come sfondo.</string>
     <string name="scrolling_wall_dialog_text">画面サイズに壁紙を切り抜きますか\u003f</string>
     <string name="scrolling_wall_dialog_title">壁紙のトリミング</string>
     <string name="scrolling_wall_yes">いいえ</string>
     <string name="scrolling_wall_no">はい</string>
+    <string name="cancel">Annulla</string>
     <string name="wallpaper_location_local">ローカル</string>
+    <string name="wallpaper_location_remote">Remoto</string>
     <string name="download_wallpaper_notice">壁紙をダウンロード</string>
     <string name="download_wallpaper_failed_notice">壁紙のダウンロードに失敗しました</string>
+    <string name="download_wallpaper_view_notice">Nessuna app galleria trovata</string>
     <string name="no_network_message">ネットワーク接続がありません</string>
     <string name="download_wallpaper_list_failed_notice">壁紙の読み込みに失敗しました</string>
     <string name="wallpaper_default_name">壁紙</string>
     <string name="browse_theme_walls">テーマの壁紙</string>
     <string name="browse_theme_header">テーマのヘッダー</string>
+    <string name="pick_header">Seleziona intestazione</string>
     <string name="pick_theme">テーマの選択</string>
     <string name="theme_disable">デフォルト</string>
     <string name="sort_by_creator_menu">クリエイターでソート</string>
@@ -46,6 +52,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="download_header_notice">ヘッダーをダウンロード</string>
     <string name="download_header_failed_notice">ヘッダーのダウンロードに失敗しました</string>
     <string name="header_location_local">ローカル</string>
+    <string name="header_location_online">Remoto</string>
     <string name="compose_theme">テーマの作成</string>
     <string name="theme_accent">アクセント</string>
     <string name="theme_primary">プライマリー</string>
@@ -53,4 +60,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="theme_compose">作成</string>
     <string name="button_apply">適用</string>
     <string name="notification_overlay_info">通知オーバーレイを変更した後は\n再起動する必要があります</string>
+    <string name="wavvy_header">Ondata (tempo)</string>
+    <string name="nature_header">Natura (tempo)</string>
+    <string name="nature_header_random">Natura (casuale)</string>
+    <string name="poly_header">Poly (tempo)</string>
 </resources>

@@ -59,7 +59,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="theme_notification">Bildirim</string>
     <string name="theme_compose">Oluştur</string>
     <string name="button_apply">Uygula</string>
-    <string name="notification_overlay_info">Bildirim değiştirildikten sonra\ntekrar başlatmanız gerekir</string>
+    <string name="notification_overlay_info">Bildirim değiştirildikten sonra\nyeniden başlatmanız gerekir</string>
     <string name="wavvy_header">Dalgalı (zaman)</string>
     <string name="nature_header">Doğal (zaman)</string>
     <string name="nature_header_random">Doğal (rasgele)</string>
