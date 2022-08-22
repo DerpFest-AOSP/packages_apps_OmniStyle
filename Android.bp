@@ -1,0 +1,45 @@
+//
+// Copyright (C) 2008 The Android Open Source Project
+//
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//
+//      http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
+//
+
+android_app {
+    name: "OmniStyle",
+
+    static_libs: [
+        "androidx.core_core",
+        "androidx.cardview_cardview",
+        "androidx.recyclerview_recyclerview",
+        "androidx.gridlayout_gridlayout",
+        "lib-picasso-target",
+    ],
+    resource_dirs: ["res"],
+    manifest: "AndroidManifest.xml",
+    srcs: ["src/**/*.java"],
+    privileged: true,
+
+    platform_apis: true,
+    optimize: {
+        enabled: false,
+    },
+}
+
+// Enumerate target prebuilts to avoid linker warnings
+java_import {
+
+    name: "lib-picasso-target",
+    installable: false,
+    jars: ["libs/picasso-2.5.2.jar"],
+
+}
