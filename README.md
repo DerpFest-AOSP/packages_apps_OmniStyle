@@ -8,7 +8,8 @@ activity name is used to defined name of the config file
 ```xml
 		<activity
 			android:name=".<tag>"
-			android:label="<label>" >
+			android:label="<label>"
+			android:exported="false" >
 			<intent-filter>
 				<action android:name="org.omnirom.DaylightHeaderPack1" />
 
