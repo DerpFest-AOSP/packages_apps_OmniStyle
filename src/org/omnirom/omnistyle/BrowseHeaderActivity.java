@@ -18,8 +18,6 @@
 package org.omnirom.omnistyle;
 
 import android.Manifest;
-import android.app.ActionBar;
-import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
 import android.content.pm.PackageManager;
@@ -50,6 +48,7 @@ import android.widget.Spinner;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
@@ -71,7 +70,8 @@ import java.util.Set;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class BrowseHeaderActivity extends Activity {
+public class BrowseHeaderActivity extends AppCompatActivity {
+
     private static final String TAG = "BrowseHeaderActivity";
     private static final String HEADERS_LIST_URI = "https://dl.omnirom.org/images/headers/thumbs/json_headers_xml.php";
     private static final String HEADERS_THUMB_URI = "https://dl.omnirom.org/images/headers/thumbs/";
@@ -251,9 +251,6 @@ public class BrowseHeaderActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.content_browse);
-
-        getActionBar().setDisplayOptions(ActionBar.DISPLAY_HOME_AS_UP | ActionBar.DISPLAY_SHOW_TITLE);
-        getActionBar().setElevation(0);
 
         mProgress = (ProgressBar) findViewById(R.id.browse_progress);
         mHeaderSelect = (Spinner) findViewById(R.id.package_select);

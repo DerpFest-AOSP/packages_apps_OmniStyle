@@ -18,11 +18,14 @@ android_app {
     name: "OmniStyle",
 
     static_libs: [
+        "androidx.appcompat_appcompat",
         "androidx.core_core",
         "androidx.cardview_cardview",
         "androidx.recyclerview_recyclerview",
         "androidx.gridlayout_gridlayout",
+        "com.google.android.material_material",
         "lib-picasso-target",
+        "SettingsLib",
     ],
     resource_dirs: ["res"],
     manifest: "AndroidManifest.xml",
